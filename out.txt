@@ -1,0 +1,12 @@
+DNA
+ggtttcagacaaaatcaaaaagaaggaaggtgctcacattccttaaattaagga
+ccaaagtctgttttagtttttcttccttccacgagtgtaaggaatttaattcct
+
+RNA
+gguuucagacaaaaucaaaaagaaggaaggugcucacauuccuuaaauuaagga
+
+mRNA
+5-cap gguuucagacaaaaucaaaaagaaggaaggugcucacauuccuuaaauuaagga aaaaaaaaaaaaaaaaaaaaaa
+
+acids
+Gly-Phe-Arg-Gln-Asn-Gln-Lys-Glu-Gly-Arg-Cys-Ser-His-Ser-Leu-Asn-STOP-Gly-
